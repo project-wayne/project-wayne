@@ -6,15 +6,7 @@
 
 
 
-
-[assembly: AssemblyTitle("FuseDDoS Version 3")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FuseDDoS Version 3")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
+It's up to you if you want to copy this fucking repository
 
 
 <!---
